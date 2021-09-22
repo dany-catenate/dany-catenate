@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dany-catenate
 - 👀 I’m interested in science and technology
-- 🌱 I’m currently learning Tibco BusinessWorks (with other many Tibco products)
+- 🌱 I’m currently learning Tibco BusinessWorks...
 - 💞️ I’m looking to collaborate on project in which BW6 is involved
 - 📫 How to reach me here
 
